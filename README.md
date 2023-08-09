@@ -5,7 +5,7 @@
 
 
 
-### Hi there 👋, my name is SeGeunChoi
+### Hi there 👋, my name is SegeunChoi
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://github.com/segeun/segeun.git)
 
