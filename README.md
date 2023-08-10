@@ -7,32 +7,32 @@
 
 # 앱스쿨 iOS 2기 프로젝트1 markdown 이력서 자료
 
-GitHub Pages URL: [APPSCHOOL3-iOS.github.io](https://APPSCHOOL3-iOS.github.io)
+GitHub Pages URL: (https://github.com/segeun)
 
 이력서 예시는 다음과 같습니다.
 
 ---
 
-<h1> iOS개발자 장원영 이력서</h1>
+<h1> iOS개발자 최세근 이력서</h1>
 
-<h5>안녕하세요. 코딩 전사 장원영입니다.</h5>
+<h5>안녕하세요. 호기심 많은 개발자 최세근입니다.</h5>
 
 <h3>Contact</h3> 
 <ul>
   <li>
-    이름: 장원영
+    이름: 최세근
   </li>
   <li>
-    이메일 : wonyoungzzang123123@example.com
+    이메일 : chltprms77@icloud.com
   </li>
 </ul>
 
 
 <h3>Channel</h3> 
 <ul>
-  <li>깃허브 : github.com/wonyoungzzang123123
+  <li>깃허브 : github.com/segeun
   </li>
-  <li>블로그 : wonyoungzzang123123.github.io
+  <li>블로그 : https://www.notion.so/Swift-8bb1c9e00aac4eb8b16dcd5bd3eee85b₩
   </li>
 </ul>
 
@@ -40,7 +40,7 @@ GitHub Pages URL: [APPSCHOOL3-iOS.github.io](https://APPSCHOOL3-iOS.github.io)
 
 <h3>Introduce</h3>
 <p>
-  다년간의 마케터 근무한 경험을 바탕으로 남녀노소를 불문하고 의사소통하는것을 어려워 하지 않으며, 여러 의견을 수렴하여 모두가 수긍할 수 있는 방향을 제시할 수 있습니다. 개발자가 편한 개발이 아닌 사용자를 위한 개발을 할 자신이 있습니다. 
+  안녕하세요
 </p>
 
 ---
@@ -58,15 +58,10 @@ GitHub Pages URL: [APPSCHOOL3-iOS.github.io](https://APPSCHOOL3-iOS.github.io)
 <h5>A사 마케팅 근무</h5>
 <h5>B사 서비스 운영</h5>
 
-<img width="80%" src="https://github.com/APPSCHOOL3-iOS/APPSCHOOL3-iOS.github.io/assets/114051724/6be438a8-30fc-493f-a099-d5fb796a9c49">
-
 <h2>Project</h2> 
 <ul>
   <li>
-    Fantastic App** (2022): 앱 개발. 사용 언어/기술: SwiftUI, Firebase
-  </li>
-  <li>
-    amaizing App** (2023): 앱 개발. 사용 언어/기술: UIKit, Firebase
+    TodoList App** (2023): 앱 개발. 사용 언어/기술: SwiftUI, Firebase
   </li>
 </ul>
 
@@ -94,6 +89,6 @@ GitHub Pages URL: [APPSCHOOL3-iOS.github.io](https://APPSCHOOL3-iOS.github.io)
 <h2>기타 수상 내역</h2> 
 <ul>
   <li>
-    멋쟁이사자 해커톤 대상 (2023)
+    멋쟁이사자
   </li>
 </ul>
