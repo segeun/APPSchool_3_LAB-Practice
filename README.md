@@ -9,8 +9,6 @@
 
 GitHub Pages URL: (https://github.com/segeun)
 
-이력서 예시는 다음과 같습니다.
-
 ---
 
 <h1> I am a Developer </h1>
