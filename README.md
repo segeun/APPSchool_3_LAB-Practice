@@ -38,7 +38,7 @@ GitHub Pages URL: (https://github.com/segeun)
 
 <h3>Introduce</h3>
 <p>
-  
+  약 1년 반의 회사경력과 다양한 사람들과 협력하여 일을 많이 해왔습니다. 팀원들과 커뮤니케이션해서 일을 처리하는 상황이 익숙하고 주도적으로 해결할 수 있습니다. 
 </p>
 
 ---
@@ -56,7 +56,7 @@ GitHub Pages URL: (https://github.com/segeun)
 <p>2021.06 ~ 2022.06</p>
 
 <p>2xxx.03 ~ 2xxx.02</p>
-<h5>좋은 대학교 나이스학과 졸업</h5>
+<h5>좋은 대학교 미디어커뮤니케이션학과 졸업</h5>
 
 <p> ~ 2xxx.02 </p>
 <h5>좋은 고등학교 졸업</h5>
@@ -66,6 +66,7 @@ GitHub Pages URL: (https://github.com/segeun)
 <ul>
   <li>
     TodoList App** (2023): 앱 개발. 사용 언어/기술: SwiftUI, Firebase
+    
   </li>
   <li>
     깃허브: https://github.com/segeun/ToDoList
