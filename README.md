@@ -13,9 +13,9 @@ GitHub Pages URL: (https://github.com/segeun)
 
 ---
 
-<h1> iOS개발자 최세근 이력서</h1>
+<h1> I am a Developer </h1>
 
-<h5>안녕하세요. 호기심 많은 개발자 최세근입니다.</h5>
+<h5>안녕하세요. iOS 엔지니어 최세근입니다.</h5>
 
 <h3>Contact</h3> 
 <ul>
@@ -51,12 +51,12 @@ GitHub Pages URL: (https://github.com/segeun)
 <p>2023.05 ~ 2023.10</p>
 <p>swift문법 및 SWIFTUI를 배우고 익히며 수료 마지막에는 좋은 동료들과 멋진앱을 배포할 수 있었습니다. </p>
 
-<h5>좋은 대학교 국제관계 졸업</h5>
-<h5>일본 ABC대학교 교환학생</h5>
-<h5>NYU advanced language course 수료</h5>
-<h5>뉴욕 ‘blahblah’ 패션 브랜드 패션 마케팅 인턴</h5>
-<h5>A사 마케팅 근무</h5>
-<h5>B사 서비스 운영</h5>
+<p>2015.03 ~ 2022.02</p>
+<h5>좋은 대학교 나이스학과 졸업</h5>
+
+<p>2 ~ 2015.02 </p>
+<h5>좋은 고등학교 졸업</h5>
+
 
 <h2>Project</h2> 
 <ul>
