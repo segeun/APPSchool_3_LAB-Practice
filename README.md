@@ -15,7 +15,7 @@ GitHub Pages URL: (https://github.com/segeun)
 
 <h1> I am a Developer </h1>
 
-<h5>안녕하세요. iOS 엔지니어 최세근입니다.</h5>
+<h2>안녕하세요. iOS 엔지니어 최세근입니다.</h2>
 
 <h3>Contact</h3> 
 <ul>
@@ -40,7 +40,7 @@ GitHub Pages URL: (https://github.com/segeun)
 
 <h3>Introduce</h3>
 <p>
-  안녕하세요
+  
 </p>
 
 ---
@@ -51,10 +51,16 @@ GitHub Pages URL: (https://github.com/segeun)
 <p>2023.05 ~ 2023.10</p>
 <p>swift문법 및 SWIFTUI를 배우고 익히며 수료 마지막에는 좋은 동료들과 멋진앱을 배포할 수 있었습니다. </p>
 
-<p>2015.03 ~ 2022.02</p>
+<h5>문학과 지성사 마케팅부서 근무</h5>
+<p>2022.07 ~ 2023.05</p>
+
+<h5>유피트코리아 영업팀 근무</h5>
+<p>2021.06 ~ 2022.06</p>
+
+<p>2xxx.03 ~ 2xxx.02</p>
 <h5>좋은 대학교 나이스학과 졸업</h5>
 
-<p>2 ~ 2015.02 </p>
+<p> ~ 2xxx.02 </p>
 <h5>좋은 고등학교 졸업</h5>
 
 
@@ -62,6 +68,9 @@ GitHub Pages URL: (https://github.com/segeun)
 <ul>
   <li>
     TodoList App** (2023): 앱 개발. 사용 언어/기술: SwiftUI, Firebase
+  </li>
+  <li>
+    깃허브: https://github.com/segeun/ToDoList
   </li>
 </ul>
 
@@ -89,6 +98,6 @@ GitHub Pages URL: (https://github.com/segeun)
 <h2>기타 수상 내역</h2> 
 <ul>
   <li>
-    멋쟁이사자
+    멋쟁이사자처럼 앱스쿨2기 수료
   </li>
 </ul>
