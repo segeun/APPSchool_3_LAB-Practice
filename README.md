@@ -28,7 +28,7 @@ GitHub Pages URL: (https://github.com/segeun)
 
 <h3>Channel</h3> 
 <ul>
-  <li>깃허브 : github.com/segeun
+  <li>깃허브 : https://github.com/segeun
   </li>
   <li>블로그 : https://www.notion.so/Swift-8bb1c9e00aac4eb8b16dcd5bd3eee85b?pvs=4
   </li>
